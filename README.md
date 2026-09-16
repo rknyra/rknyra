@@ -56,29 +56,32 @@
 <!--           HOBBY-PROJECTS      -->
 <!-- ============================= -->
 
-## Hobby Projects 👩🏾‍🎨
+## 3 Hobby Projects 👩🏾‍🎨
 
-<p align="center">
-   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFE0zFABL0V9Q/profile-treasury-image-shrink_480_480/B4DaCoFu7tIcAY-/0/1789526470758?e=1790143200&v=beta&t=X657k04_mQ1RNT25Or5QyfDMOwPpM7FU05PfBZuASPs" width="30%" alt="django-render-github-search-app"/>
-   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQE2gBQjBSHYBg/profile-treasury-image-shrink_480_480/B4DaCoFu36JoAY-/0/1789526470569?e=1790157600&v=beta&t=bVSxNckEypNf2Xs0_nR2x_asBcbFYNq4sEZFAgi9FnI" width="30%" alt="insights-vue-app"/>
-   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGa6Kh5toRSGw/profile-treasury-image-shrink_480_480/B4DaCoFuv8JoAU-/0/1789526469877?e=1790157600&v=beta&t=-j5SBlLwhJVq3iS-voUDGzHu6kYv3kLXUHoAhR1z-QU" width="30%" alt="astro-quoteFlip-app"/>
-</p>
-
----
-
-### [Github Search (gh-search) ](https://django-github-search.onrender.com)  
+### 1. [Github Search (gh-search) ](https://django-github-search.onrender.com)  
 - a django-based, render-deployed app that enables the search of github users.
 - it leverages the github-search API
 
 🔗 [The live-on-Render demo](https://django-github-search.onrender.com) ,  may sometimes take 30 seconds to load, but it's an inevitable worth the wait step! 😃
 
+#### What to expect visuals:
+##### These are only a sneak pic, and not the actual app.
+<p align="center">
+ <img width="30%" alt="rknyra-django-render-github-search-homePage" src="https://github.com/user-attachments/assets/ce24a049-12eb-4dee-b7e0-de3157c11fe9" />
+ <img width="30%" alt="rknyra-django-render-ghsearch-aboutPage" src="https://github.com/user-attachments/assets/c7599b07-1526-4028-aba7-1e8fd932c688" />
+ <img width="30%" alt="rknyra-django-render-ghsearch-2 0-searchPage" src="https://github.com/user-attachments/assets/d9295acc-27f5-4508-8bf4-159467f52f32" />
+ <img width="30%" alt="rknyra-django-render-ghsearch-searchResults" src="https://github.com/user-attachments/assets/651388bb-e6ef-42d9-93fe-b0e4187b398a" />   
+</p>
 
-### [InSights-Vue ](https://insights-vue.vercel.com)  
+#### 🔗 [Live Demo : gh-search ](https://django-github-search.onrender.com) 
+---
+
+### 2. [InSights-Vue ](https://insights-vue.vercel.com)  
 - prod-in-prog
 
 🔗 [Scheduled](https://insights-vue.com) 
 
-### [Astro-QuoteFlip) ](https://astro-quote-flip.netlify)  
+### 3. [Astro-QuoteFlip) ](https://astro-quote-flip.netlify)  
 - prod-in-prog
 
 🔗 [Scheduled](https://astro-quote-flip.com) 
