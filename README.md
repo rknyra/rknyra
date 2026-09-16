@@ -60,7 +60,7 @@
 
 <p align="center">
    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFE0zFABL0V9Q/profile-treasury-image-shrink_480_480/B4DaCoFu7tIcAY-/0/1789526470758?e=1790143200&v=beta&t=X657k04_mQ1RNT25Or5QyfDMOwPpM7FU05PfBZuASPs" width="30%" alt="django-render-github-search-app"/>
-   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQE2gBQjBSHYBg/profile-treasury-image-shrink_480_480/B4DaCoFu36JoAY-/0/1789526470569?e=1790157600&v=beta&t=bVSxNckEypNf2Xs0_nR2x_asBcbFYNq4sEZFAgi9FnI" width="70%" alt="insights-vue-app"/>
+   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQE2gBQjBSHYBg/profile-treasury-image-shrink_480_480/B4DaCoFu36JoAY-/0/1789526470569?e=1790157600&v=beta&t=bVSxNckEypNf2Xs0_nR2x_asBcbFYNq4sEZFAgi9FnI" width="30%" alt="insights-vue-app"/>
    <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGa6Kh5toRSGw/profile-treasury-image-shrink_480_480/B4DaCoFuv8JoAU-/0/1789526469877?e=1790157600&v=beta&t=-j5SBlLwhJVq3iS-voUDGzHu6kYv3kLXUHoAhR1z-QU" width="30%" alt="astro-quoteFlip-app"/>
 </p>
 
