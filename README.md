@@ -45,9 +45,11 @@
 
 ## Creating together...🤝🏾
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rknyra-blue)](https://www.linkedin.com/in/rhoda-n-kimanga-rk-nyra-9474355b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rknyra?logo=linkedin&logoColor=blue&logoSize=auto&label=rknyra&labelColor=black&color=blue
+)](https://www.linkedin.com/in/rhoda-n-kimanga-rk-nyra-9474355b) 
 <br/>
-[![YouTube/RKNyra](https://img.shields.io/badge/Youtube-rknyra-red)](https://www.youtube.com/@rk_nyra) 
+[![YouTube/RKNyra](https://img.shields.io/badge/YouTube-rknyra?logo=youtube&logoColor=red&logoSize=auto&label=rknyra&labelColor=black&color=red
+)](https://www.youtube.com/@rk_nyra) 
 
 
 ---
