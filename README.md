@@ -64,8 +64,8 @@
 
 🔗 [The live-on-Render demo](https://django-github-search.onrender.com) ,  may sometimes take 30 seconds to load, but it's an inevitable worth the wait step! 😃
 
-#### What to expect visuals:
-##### These are only a sneak pic, and not the actual app.
+#### 1.1 What to expect (check out the visuals below, of what to expect in the live-demo...) 
+#####    These are only quick-peek, screenshots 📸 
 <p align="center">
  <img width="30%" alt="rknyra-django-render-github-search-homePage" src="https://github.com/user-attachments/assets/ce24a049-12eb-4dee-b7e0-de3157c11fe9" />
  <img width="30%" alt="rknyra-django-render-ghsearch-aboutPage" src="https://github.com/user-attachments/assets/c7599b07-1526-4028-aba7-1e8fd932c688" />
