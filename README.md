@@ -88,6 +88,10 @@
 
 ---
 
+<!-- ============================= -->
+<!--          Rem to add 3 vids/screen-recordings of the 3 apps and GIFFify em :-)-->
+<!-- ============================= -->
+
 <div align="center" style="background-color: #fff; padding: 24px; border-radius: 12px; border-top: 2px solid #30363d; border-right: 2px solid #30363d; border-bottom: 2px solid #0d1117; border-left: 2px solid #0d1117; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
 
   <p style="font-size: 1.1rem; font-style: italic; font-weight: bold; margin: 0 0 8px 0; color: #c9d1d9;">
