@@ -78,10 +78,23 @@
 #### 🔗 [Live Demo : gh-search ](https://django-github-search.onrender.com) 
 ---
 
-### 2. [InSights-Vue ](https://insights-vue.vercel.com)  
-- prod-in-prog
+### 2. [InSights-Vue ](https://insights-vue.vercel.app)  
+- A VueJs-Vercel dev-test app that allows users in different occupations, to share short, witty, occupation-based quotes.
+- Front-end : VueJS
+- Hosting: Vercel
+  
+#### 2.1 What to expect 📸  (check out the visuals below, of what to expect in the live-demo...) 
+#####    These are only quick-peek, screenshots 📸 
+<p align="center">
 
-🔗 [Scheduled](https://insights-vue.com) 
+<img width="85%"  alt="rknyra-insights-vue-vercel-quotes-app-2 0HomePage" src="https://github.com/user-attachments/assets/d5112ed1-1ff3-4229-aa57-a8303ed7a586" />
+<img width="40%" alt="rknyra-insights-vue-vercel-quotes-app-2 0AddQuoteManifest" src="https://github.com/user-attachments/assets/a9413678-3f20-40e8-8496-7b9c9807062e" />
+<img width="40%"  alt="rknyra-insights-vue-vercel-quotes-app-2 0ResetMatrix" src="https://github.com/user-attachments/assets/b5285668-057c-4e95-b94c-5b94aa7fc571" />
+
+</p>
+
+
+🔗 [Live Demo : insights-vue ](https://insights-vue.vercel.app) 
 
 ### 3. [Astro-QuoteFlip) ](https://astro-quote-flip.netlify)  
 - prod-in-prog
