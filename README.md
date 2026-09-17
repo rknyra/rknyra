@@ -87,14 +87,16 @@
 #####    These are only quick-peek, screenshots 📸 
 <p align="center">
 
-<img width="85%"  alt="rknyra-insights-vue-vercel-quotes-app-2 0HomePage" src="https://github.com/user-attachments/assets/d5112ed1-1ff3-4229-aa57-a8303ed7a586" />
-<img width="40%" alt="rknyra-insights-vue-vercel-quotes-app-2 0AddQuoteManifest" src="https://github.com/user-attachments/assets/a9413678-3f20-40e8-8496-7b9c9807062e" />
-<img width="40%"  alt="rknyra-insights-vue-vercel-quotes-app-2 0ResetMatrix" src="https://github.com/user-attachments/assets/b5285668-057c-4e95-b94c-5b94aa7fc571" />
+<img width="33%" height="150" alt="rknyra-insights-vue-vercel-quotes-app-2 0HomePage" src="https://github.com/user-attachments/assets/d5112ed1-1ff3-4229-aa57-a8303ed7a586" />
+<img width="30%" height="150" alt="rknyra-insights-vue-vercel-quotes-app-2 0AddQuoteManifest" src="https://github.com/user-attachments/assets/a9413678-3f20-40e8-8496-7b9c9807062e" />
+<img width="30%" height="150" alt="rknyra-insights-vue-vercel-quotes-app-2 0ResetMatrix" src="https://github.com/user-attachments/assets/b5285668-057c-4e95-b94c-5b94aa7fc571" />
 
 </p>
 
 
 🔗 [Live Demo : insights-vue ](https://insights-vue.vercel.app) 
+
+---
 
 ### 3. [Astro-QuoteFlip) ](https://astro-quote-flip.netlify)  
 - prod-in-prog
