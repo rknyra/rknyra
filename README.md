@@ -98,10 +98,27 @@
 
 ---
 
-### 3. [Astro-QuoteFlip) ](https://astro-quote-flip.netlify)  
-- prod-in-prog
+### 3. [Astro-Cloudflare-QuoteFlip) ](https://astro-quote-flip.rk-nyra.workers.dev)  
+- An AstroJS - Cloudflare dev-test app
+- a quote-flip app used for reading witty quotes in a fun nostalgic way :-)
+#### 3.1 Tech && Tools
+ - AstroJS
+ - Cloudflare pages
+ - Git et github
+ - CI/CD automation
 
-🔗 [Scheduled](https://astro-quote-flip.com) 
+#### 3.2 What to expect 📸  (check out the visuals below, of what to expect in the live-demo...) 
+#####  These are only quick-peek, screenshots 📸 
+  <p align="center">
+
+   <img width="1919" height="863" alt="rknyra-astro-quote-flipUno" src="https://github.com/user-attachments/assets/a081d7b5-7bb6-494b-a343-08fd98187a0b" />
+
+   <img width="1919" height="1040" alt="rknyra-astro-quote-flip-live-demo" src="https://github.com/user-attachments/assets/fb9b2f99-7638-40fd-9b1d-d4eef7c5d6ae" />
+
+     
+  </p>
+
+🔗 [Live Demo : Astro-Cloudflare-QuoteFlip ](https://astro-quote-flip.rk-nyra.workers.dev) 
 
 ---
 
